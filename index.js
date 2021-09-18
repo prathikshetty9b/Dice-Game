@@ -4,8 +4,8 @@ var randomNumber1 = Math.floor(Math.random()*6 + 1);
 var randomNumber2 = Math.floor(Math.random()*6 + 1);
 
 //random dice image
-var randomDiceImage1 = "/images/dice" + randomNumber1 + ".png"
-var randomDiceImage2 = "/images/dice" + randomNumber2 + ".png"
+var randomDiceImage1 = "./images/dice" + randomNumber1 + ".png"
+var randomDiceImage2 = "./images/dice" + randomNumber2 + ".png"
 
 
 //Setting Source to image tags
